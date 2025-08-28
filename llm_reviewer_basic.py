@@ -10,7 +10,7 @@ from unidiff import PatchSet
 csv.field_size_limit(10**8)
 
 ### VARIABLES
-REPORT_DIRECTORY = "output"
+REPORT_DIRECTORY = ""
 REPORT_FILENAME_GPT = "comment_gpt.csv"
 INPUT_FILE = "bug_fix_pairs.csv"
 OPEN_API_KEY = ""
