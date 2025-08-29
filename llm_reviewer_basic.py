@@ -13,7 +13,7 @@ csv.field_size_limit(10**8)
 REPORT_DIRECTORY = ""
 REPORT_FILENAME_GPT = "comment_gpt.csv"
 INPUT_FILE = "bug_fix_pairs.csv"
-OPEN_API_KEY = "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"
+OPEN_API_KEY = "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"
 OPEN_AI_MODEL = "gpt-4o-mini"
 TEMPERATURE = 0.2
 
